@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347324167561",
+    "project_id": "msprar-be892",
+    "storage_bucket": "msprar-be892.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347324167561:android:e7b1364c03e134f4675d58",
+        "android_client_info": {
+          "package_name": "com.EPSI.MSPRCerealis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347324167561-3jh40cbhho58cna561274cgupm3fr7gf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjOgff72g_lPs8LKu9dn5I5HcuHQFQ5fI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347324167561-3jh40cbhho58cna561274cgupm3fr7gf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
