@@ -4,6 +4,8 @@
 ### Unity ###
 # This .gitignore file should be placed at the root of your Unity project directory
 Packages/com.ptc.vuforia.engine-10.9.3.tgz
+Assets/Firebase/Plugins/x86_64/
+
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 /[Ll]ibrary/
 /[Tt]emp/
