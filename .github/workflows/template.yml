@@ -1,0 +1,12 @@
+name: gameci template
+
+on: push
+
+jobs:
+  checkLicense:
+    name: Check for unity license
+    runs-on: ubuntu-latest
+    steps:
+      - name: fail no license
+        if: ${{ !startsWith(env.UNITY_LICENSE, 'v')}}
+        run: exit1
